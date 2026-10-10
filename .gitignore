@@ -1,0 +1,7 @@
+__pycache__/
+.DS_Store
+Snipaste_*.png
+data/_meta.json
+data/_rows.json
+data/_cats.json
+data/_hero_names.txt

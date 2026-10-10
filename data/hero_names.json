@@ -1,0 +1,202 @@
+[
+{
+"t": "MLLM-as-a-Judge",
+"pid": 0
+},
+{
+"t": "Prometheus-Vision",
+"pid": 1
+},
+{
+"t": "Judge Anything",
+"pid": 2
+},
+{
+"t": "Flex-Judge",
+"pid": 3
+},
+{
+"t": "VideoJudge",
+"pid": 5
+},
+{
+"t": "UniME-V2",
+"pid": 8
+},
+{
+"t": "ProJudge",
+"pid": 10
+},
+{
+"t": "MM-JudgeBias",
+"pid": 13
+},
+{
+"t": "Lost in Translation",
+"pid": 16
+},
+{
+"t": "Jury Duty",
+"pid": 17
+},
+{
+"t": "OmniJudge",
+"pid": 19
+},
+{
+"t": "Multi-Crit",
+"pid": 20
+},
+{
+"t": "ConfProBench",
+"pid": 21
+},
+{
+"t": "FairJudge",
+"pid": 22
+},
+{
+"t": "FaithScore",
+"pid": 24
+},
+{
+"t": "ZINA",
+"pid": 25
+},
+{
+"t": "OmniHallu",
+"pid": 26
+},
+{
+"t": "DIAL",
+"pid": 29
+},
+{
+"t": "UDA",
+"pid": 30
+},
+{
+"t": "Trust or Escalate",
+"pid": 36
+},
+{
+"t": "JudgePanel",
+"pid": 37
+},
+{
+"t": "Reasoning Jury",
+"pid": 39
+},
+{
+"t": "CARE",
+"pid": 44
+},
+{
+"t": "JudgeBench",
+"pid": 48
+},
+{
+"t": "RM-Bench",
+"pid": 49
+},
+{
+"t": "CLIPScore",
+"pid": 50
+},
+{
+"t": "EXPERT",
+"pid": 52
+},
+{
+"t": "ITIScore",
+"pid": 53
+},
+{
+"t": "DISCODE",
+"pid": 54
+},
+{
+"t": "MJ-Bench",
+"pid": 57
+},
+{
+"t": "VALOR-EVAL",
+"pid": 59
+},
+{
+"t": "VEGAS",
+"pid": 60
+},
+{
+"t": "CapArena",
+"pid": 62
+},
+{
+"t": "G-Eval",
+"pid": 64
+},
+{
+"t": "Prometheus",
+"pid": 1
+},
+{
+"t": "Prometheus 2",
+"pid": 66
+},
+{
+"t": "JudgeLM",
+"pid": 67
+},
+{
+"t": "Self-Taught",
+"pid": 68
+},
+{
+"t": "RewardBench",
+"pid": 58
+},
+{
+"t": "CritiqueLLM",
+"pid": 70
+},
+{
+"t": "MixEval",
+"pid": 73
+},
+{
+"t": "WildBench",
+"pid": 74
+},
+{
+"t": "GPTScore",
+"pid": 76
+},
+{
+"t": "FLASK",
+"pid": 77
+},
+{
+"t": "PandaLM",
+"pid": 78
+},
+{
+"t": "Judging the Judges",
+"pid": 80
+},
+{
+"t": "BayesJudge",
+"pid": 84
+},
+{
+"t": "JudgeMoE",
+"pid": 85
+},
+{
+"t": "AdaGuard",
+"pid": 89
+},
+{
+"t": "TRACE",
+"pid": 39
+}
+]
