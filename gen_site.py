@@ -727,7 +727,7 @@ HTML = '''<!DOCTYPE html>
       <h1>大模型评测论文库</h1>
       <div class="sub">收录 __NPAPERS__ 篇评测方法论文 · __YEARSPAN__ · 定期更新</div>
       <div class="stat">__STAT__</div>
-      <div class="herohint">悬停 / 点击右侧漂浮的方法名 → 跳到对应论文</div>
+      <div class="herohint">为学日增</div>
     </div>
   </div>
 
